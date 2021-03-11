@@ -1,7 +1,7 @@
 import { defineFeature, loadFeature } from '../../../../src/';
 import { stringCalculator } from '../../src/string-calculator';
 
-const feature = loadFeature('./examples/typescript/specs/features/string_calculator.feature');
+const feature = loadFeature('./examples/typescript/specs/features/string-calculator.feature');
 
 defineFeature(feature, (test) => {
     let op : stringCalculator;
