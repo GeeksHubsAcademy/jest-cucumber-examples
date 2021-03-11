@@ -4,6 +4,8 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/githubagilesoftware.jpg" >	
 </p>
 
+[![Build Status](https://travis-ci.com/vicboma1/jest-cucumber-examples.svg?branch=master)](https://travis-ci.com/vicboma1/jest-cucumber-examples)
+
 Install
 ```
 typescript    https://www.typescriptlang.org/
