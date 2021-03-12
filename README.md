@@ -37,10 +37,10 @@ Waiting for the debugger to disconnect...
 Debugger attached.
 Waiting for the debugger to disconnect...
 
-Test Suites: 11 passed, 11 total
-Tests:       33 passed, 33 total
+Test Suites: 12 passed, 12 total
+Tests:       35 passed, 35 total
 Snapshots:   0 total
-Time:        17.465 s
+Time:        6.257 s
 Ran all test suites.
 Waiting for the debugger to disconnect...
 Waiting for the debugger to disconnect...
